@@ -1,0 +1,26 @@
+
+Magic 8.3 revision 315 - Compiled on Fri Sep  2 23:28:49 UTC 2022.
+Starting magic under Tcl interpreter
+Using the terminal as the console.
+Using NULL graphics device.
+Processing system .magicrc file
+Error parsing "/opt/mpw_precheck/checks/tech-files/sky130A.magicrc": invalid command name "EF"
+Bad local startup file "/opt/mpw_precheck/checks/tech-files/sky130A.magicrc", continuing without.
+Loading "/opt/mpw_precheck/checks/drc_checks/magic/magic_drc_check.tcl" from command line.
+Detected an SRAM module
+Don't know how to read GDS-II:
+Nothing in "cifinput" section of tech file.
+[INFO]: Loading user_analog_project_wrapper
+
+File user_analog_project_wrapper.mag couldn't be read
+No such file or directory
+Creating new cell
+"drc(full)" is not one of the DRC styles Magic knows.
+The current style is "default".
+The DRC styles are: default.
+No errors found.
+[INFO]: COUNT: 0
+[INFO]: Should be divided by 3 or 4
+[INFO]: DRC Checking DONE (/home/nvm_user4/usr/mpw_7_files/sram_imc_analog/caravel_user_project_analog/precheck_results/11_SEP_2022___16_51_40/outputs/reports/magic_drc_check.drc.report)
+[INFO]: Saving mag view with DRC errors(/home/nvm_user4/usr/mpw_7_files/sram_imc_analog/caravel_user_project_analog/precheck_results/11_SEP_2022___16_51_40/outputs/user_analog_project_wrapper.magic.drc.mag)
+[INFO]: Saved
